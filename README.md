@@ -1,1 +1,1 @@
-# CarsVRMapExample-v1
+# CarsVRMapExample
